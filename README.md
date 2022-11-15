@@ -25,5 +25,5 @@ This Machine can identify your Dog
 
 ![](8.png)
 
-Here you can see that by providing random images to model it is able to predict their names
+  Here you can see that by providing random images to model it is able to predict their names
 
