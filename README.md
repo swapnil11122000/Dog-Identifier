@@ -14,6 +14,12 @@ process for Demonstration
 10. Run all the cells
 
 
+
+
 Some Images form Colab
+
+
 ![](9.png)
+
+![](8.png)
 
