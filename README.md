@@ -23,3 +23,5 @@ Some Images form Colab
 
 ![](8.png)
 
+Here you can see that by providing random images to model it is able to predict that these are
+
