@@ -21,7 +21,7 @@ This Machine can identify your Dog
 
 9 . start GPU 
 
-10. Run all the cells
+10 . Run all the cells
 
 
 
