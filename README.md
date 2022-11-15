@@ -1,8 +1,7 @@
 # Dog-Identifier
 This Machine can identify your Dog
 
-
-##process for Demonstration
+process for Demonstration
 
 ###1 . Download all the project files 
 ###2 . Unzip 
