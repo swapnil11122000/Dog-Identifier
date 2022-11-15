@@ -1,7 +1,7 @@
 # Dog-Identifier
 This Machine can identify your Dog
 
-process for Demonstration
+## process for Demonstration
 
 1 . Download all the project files 
 
@@ -26,7 +26,7 @@ process for Demonstration
 
 
 
-Some Images form Colab
+## Some Images form Colab
 
 
 ![](9.png)
